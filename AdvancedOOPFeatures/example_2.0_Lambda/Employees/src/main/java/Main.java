@@ -14,7 +14,7 @@ public class Main {
     }
 
     public static Employee findEmployeeWithHighestSalary(List<Employee> staff, int year) {
-        DateFormat df = new SimpleDateFormat("yyyy"); // simple date format(yyyy) вместо устаревшего getYear();
+        DateFormat df = new SimpleDateFormat("yyyy"); // simple date format(yyyy) 
 
         var employeeWithMaxSalary = staff.stream()
                 .filter(obj -> df.format(obj.getWorkStart()).equals(String.valueOf(year)))
