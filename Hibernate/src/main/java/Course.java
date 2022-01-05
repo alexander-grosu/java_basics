@@ -20,7 +20,7 @@ import javax.persistence.*;
         private String description;
                                                   // 'int' is the primitive data type that cannot assign null to it
         @Column(name = "teacher_id")              // while
-        private Integer teacherId;
+        private Integer teacherId;                // 'Integer' is the wrapper class of int which can accept null
 
         @Column(name = "students_count")
         private Integer studentsCount;
