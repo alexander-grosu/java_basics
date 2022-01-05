@@ -16,11 +16,11 @@ public class Main {
         Map<String, String> valuesLines = new LinkedHashMap<>();
         Map<String, String[]> lineStation = new LinkedHashMap<>();
         Path destinationJSONObject = Paths
-                .get("D:/HomeWork/java_basics/11_FilesAndNetwork/homework_11.6/JSONObject.json");
+                .get("D:/JSON/JSONObject.json");
 
         //parse HTML
         String fileHTML =
-                parseFile("D:/HomeWork/java_basics/11_FilesAndNetwork/homework_11.6/metro.html");
+                parseFile("D:/JSON/metro.html");
         try {
             Document document = Jsoup.parse(fileHTML);
             //select lines
