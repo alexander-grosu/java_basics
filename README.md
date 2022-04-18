@@ -14,7 +14,11 @@
 
 
 >__NOSQL__
-![](C:\Users\User\OneDrive\Рабочий стол\Nosql\images\oracle-nosql.png)
+<p align="center">
+  <img src="C:\Users\User\OneDrive\Рабочий стол\Nosql\images\oracle-nosql.png" width="350" title="hover text">
+  <img src="C:\Users\User\OneDrive\Рабочий стол\Nosql\images\oracle-nosql.png" width="350" alt="accessibility text">
+</p>
+
 
 ---
 >>__NoSQL / Redis__
