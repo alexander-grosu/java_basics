@@ -14,7 +14,7 @@
 
 
 >__NOSQL__
-![](C:\Users\User\OneDrive\Рабочий стол\Nosql\images\imgbin-mongodb-inc-database-nosql-logo-mysql-3hF2UmuUmREEsRsrWUwxpADKE.jpg)
+![](C:\Users\User\OneDrive\Рабочий стол\Nosql\images\oracle-nosql.png)
 
 ---
 >>__NoSQL / Redis__
