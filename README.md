@@ -9,5 +9,5 @@
   - 3 Jsoup
 + JSON, Gson library
 + JDBC
-+ Logging / Testing / Lombok@
++ Logging / Testing / Lombok [@Slf4J, Junit5]
 ---
