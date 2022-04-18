@@ -1,6 +1,6 @@
 >___JAVA BASICS___
 ---
-+ Objects, Clases, Strings, Dates, Numbers
++ Objects, Classes, Strings, Dates, Numbers
 + Arrays and Collections
 + Polymorphism
 + Files and Network
