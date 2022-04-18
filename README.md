@@ -1,7 +1,3 @@
-# java_basics
-java  basics  examples  ( Arrays&amp;Colections  |  Files&amp;Network  |  Logging/Testing  |  JDBC  |  JSON / Gson  |  Polymorphism  |  AdvancedOOPFeatures ) 
-
-
 >___JAVA BASICS___
 ---
 + Objects, Clases, Strings, Dates, Numbers
