@@ -1,7 +1,7 @@
 >___JAVA BASICS___
 ---
 + Objects, Classes, Strings, Dates, Numbers
-  - Regular Expression, Calendar
+  - Regular Expression
 + Arrays and Collections
 + Polymorphism
 + Files and Network
